@@ -1,0 +1,8 @@
+C:\Users\agurnani\Source\repos\Infra\obj\Debug\netcoreapp3.1\Infra.csprojAssemblyReference.cache
+C:\Users\agurnani\Source\repos\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+C:\Users\agurnani\Source\repos\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
+C:\Users\agurnani\Source\repos\Infra\bin\Debug\netcoreapp3.1\Infra.deps.json
+C:\Users\agurnani\Source\repos\Infra\bin\Debug\netcoreapp3.1\Infra.dll
+C:\Users\agurnani\Source\repos\Infra\bin\Debug\netcoreapp3.1\Infra.pdb
+C:\Users\agurnani\Source\repos\Infra\obj\Debug\netcoreapp3.1\Infra.dll
+C:\Users\agurnani\Source\repos\Infra\obj\Debug\netcoreapp3.1\Infra.pdb
