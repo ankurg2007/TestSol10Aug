@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\agurnani\\Source\\repos\\Business Rules Engine\\BusinessRulesEngine.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\agurnani\\Source\\repos\\Business Rules Engine\\BusinessRulesEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\agurnani\\Source\\repos\\Business Rules Engine\\BusinessRulesEngine.csproj",
+        "projectName": "BusinessRulesEngine",
+        "projectPath": "C:\\Users\\agurnani\\Source\\repos\\Business Rules Engine\\BusinessRulesEngine.csproj",
+        "packagesPath": "C:\\Users\\agurnani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\agurnani\\Source\\repos\\Business Rules Engine\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\agurnani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\agurnani\\Source\\repos\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\agurnani\\Source\\repos\\Infrastructure\\Infrastructure.csproj"
+              },
+              "C:\\Users\\agurnani\\Source\\repos\\Infra\\Infra.csproj": {
+                "projectPath": "C:\\Users\\agurnani\\Source\\repos\\Infra\\Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\agurnani\\Source\\repos\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\agurnani\\Source\\repos\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\Users\\agurnani\\Source\\repos\\Infrastructure\\Infrastructure.csproj"
+      },
+      "frameworks": {
+        "net30": {}
+      }
+    },
+    "C:\\Users\\agurnani\\Source\\repos\\Infra\\Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\agurnani\\Source\\repos\\Infra\\Infra.csproj",
+        "projectName": "Infra",
+        "projectPath": "C:\\Users\\agurnani\\Source\\repos\\Infra\\Infra.csproj",
+        "packagesPath": "C:\\Users\\agurnani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\agurnani\\Source\\repos\\Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\agurnani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
